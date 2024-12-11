@@ -1,0 +1,13 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "kotlin.languageServer.enabled": true,
+    "kotlin.debugAdapter.enabled": true,
+    "kotlin.trace.server": "messages",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.formatOnSave": true
+}
